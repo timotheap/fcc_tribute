@@ -19,11 +19,13 @@ body{
 .tab-content{
 	border-left:1px solid #ddd;
 	border-right:1px solid #ddd;
-	border-bottom:1px solid #ddd;
+	border-bottom:1px solid #71270E;
 	padding:10px;
 	margin-bottom:50px;
 	}
-
+.tab-panel{
+	min-height:500px;
+}
 
 .title{
 	color: #CCCCBF;
