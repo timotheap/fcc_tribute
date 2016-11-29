@@ -1,0 +1,29 @@
+
+body{
+	padding-top:30px;
+	text-align:justify;
+	font-family: 'Peddana', serif;
+}
+
+
+
+.row-header{
+	
+}
+
+.tab-content{
+	border-left:1px solid #ddd;
+	border-right:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding:10px;
+	height:600px;
+	}
+
+img{
+	max-height:640px;
+	min-width:400px;
+}
+
+p, li a{
+  font-size:1.5em;
+}
