@@ -7,12 +7,12 @@ body{
 
 
 
-.row-header{
-	background-image:url(/images/fleur1.jpg);
+.img{
+	background-image:url(../images/fleur1.jpg);
+	background-size:80%;
 	background-repeat:no-repeat;
-	background-size:40% 85%;
 	background-position:center;
-	height:350px;
+	
 	
 }
 
