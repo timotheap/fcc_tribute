@@ -8,6 +8,11 @@ body{
 
 
 .row-header{
+	background-image:url(../fleur.jpg);
+	background-repeat:no-repeat;
+	background-size:40% 85%;
+	background-position:center;
+	height:350px;
 	
 }
 
@@ -16,14 +21,14 @@ body{
 	border-right:1px solid #ddd;
 	border-bottom:1px solid #ddd;
 	padding:10px;
-	
+	margin-bottom:50px;
 	}
 
-img{
-	max-height:640px;
-	min-width:400px;
-}
 
+.title{
+	color: #CCCCBF;
+	text-shadow:4px 4px black;
+}
 p, li a{
   font-size:1.5em;
 }
